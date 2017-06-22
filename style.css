@@ -1,0 +1,33 @@
+/********************************/
+/*** FRIEND STATUS INDICATORS ***/
+/********************************/
+
+/* Online */
+.status-online {
+    /* background-color: #43b581; */
+    background-color: #3dbff2;
+}
+
+/* Idle */
+.status-idle {
+    /* background-color: #faa61a; */
+    background-color: #ff0;
+}
+
+/* Do Not Disturb */
+.status-dnd {
+    /* background-color: #f04747; */
+    background-color: #e00;
+}
+
+/* Streaming */
+.status-streaming {
+    /* background-color: #593695; */
+    background-color: #7949cc;
+}
+
+/* Offline & Invisible */
+.status-invisible, .status-offline {
+    /* background-color: #747f8d; */
+    background-color: #6a6a6a;
+}
