@@ -3,19 +3,19 @@
 /********************************/
 
 /* Online */
-.status-online {
+.status-online, .statusOnline-1Mp2_H {
     /* background-color: #43b581; */
     background-color: #3dbff2;
 }
 
 /* Idle */
-.status-idle {
+.status-idle, .statusIdle-2AQdvu {
     /* background-color: #faa61a; */
     background-color: #ff0;
 }
 
 /* Do Not Disturb */
-.status-dnd {
+.status-dnd, .statusDnd-35xAXU {
     /* background-color: #f04747; */
     background-color: #e00;
 }
@@ -27,7 +27,7 @@
 }
 
 /* Offline & Invisible */
-.status-invisible, .status-offline {
+.status-invisible, .status-offline, .statusInvisible-2ci18Q, .statusOffline-jZXr_u {
     /* background-color: #747f8d; */
     background-color: #6a6a6a;
 }
